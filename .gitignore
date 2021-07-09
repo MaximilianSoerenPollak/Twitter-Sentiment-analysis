@@ -1,0 +1,7 @@
+.DS_Store
+api_Response.txt
+second_one.csv
+test_df.csv
+secrets_file.py
+__pycache__/secrets_file.cpython-39.pyc
+__pycache__/secrets.cpython-39.pyc
